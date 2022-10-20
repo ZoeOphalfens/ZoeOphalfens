@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZoeOphalfens a datasharing expert.
+- 👋 Hi, I’m @ZoeOphalfens an IT recuiting expert.
 - 👀 I’m interested in recruiting new talents in the IT field for partner companies.
 - 🌱 OPEN POSITIONS: Software engineer, Software Architecht, Scrum Master!
 - ✨ QUALIFICATIONS: +5 years experience, Dutch speaking, Cloud
